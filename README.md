@@ -61,7 +61,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Launch notebook
-jupyter notebook fortune_teller_f1_predictor.ipynb
+jupyter notebook f1_predictor.ipynb
 ```
 
 Dependencies: `fastf1`, `pandas`, `numpy`, `xgboost`, `scikit-learn`, `scipy`, `requests`, `jupyter`
