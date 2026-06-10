@@ -1,0 +1,36 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+*.DS_Store?
+
+# Jupyter Notebook outputs (clear before commit)
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# FastF1 API cache (regeneratable)
+f1_cache/
+
+# Generated files
+*.csv
+*.log
+*.png
+*.pdf
+
+# Environment files
+.env
+.env.local
